@@ -7,7 +7,7 @@ import org.junit.runners.Parameterized;
 import java.util.Collection;
 import java.util.List;
 
-import static com.google.common.truth.Truth.assertThat;
+import static org.assertj.core.api.Assertions.assertThat;
 
 @RunWith(Parameterized.class)
 public class BinarySearchTest {

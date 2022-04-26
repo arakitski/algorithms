@@ -32,9 +32,9 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.google.truth</groupId>
-            <artifactId>truth</artifactId>
-            <version>0.37</version>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <version>3.22.0</version>
             <scope>test</scope>
         </dependency>
 
